@@ -2,20 +2,20 @@
 
 here are the repos for contribution
 
-low-code repo 
+1.low-code repo 
 
 Repository Name : Interview_Questions
 
 Repository Link : https://github.com/GDSC-JSCOE/Interview_Questions.git
 
 
-noncode repo
+2.noncode repo
 
 Repository Name : codemistic-non code 
 
 Repository Link : https://github.com/codemistic/Non-Code
 
-web repo 
+3.web repo 
 
 Repository Name : Animating buttons 
 
